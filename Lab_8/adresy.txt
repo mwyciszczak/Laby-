@@ -1,0 +1,1 @@
+{'ania': 'a@g.com', 'piotr': 'p@g.com', 'janusz': 'j@g.com'}
